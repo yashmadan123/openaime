@@ -6,8 +6,7 @@
     "Actions":  [
                     "microsoft.alertsmanagement/smartDetectorAlertRules/read",
                     "microsoft.alertsmanagement/smartDetectorAlertRules/write",
-                    "Microsoft.Authorization/read",
-                    "Microsoft.Authorization/write",
+                    "Microsoft.Authorization/*",
                     "Microsoft.BotService/botServices/read",
                     "Microsoft.BotService/botServices/write",
                     "Microsoft.CognitiveServices/accounts/read",
